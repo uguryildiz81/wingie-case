@@ -2,7 +2,7 @@
 
 - Projeyi indirin veya klonlayın.
 - Docker'ın yüklü olduğundan emin olun.
-- erminal veya komut istemcisinde `start.sh` komutunu çalıştırın.
+- Terminal veya komut istemcisinde `start.sh` komutunu çalıştırın.
 
 ## Kullanım
 
